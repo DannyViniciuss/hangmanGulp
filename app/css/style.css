@@ -1,0 +1,8 @@
+/*CSS STYLE HANGMAN*/
+
+.container {
+    width: 600px;
+    margin:0 auto;
+    background-color: grey;
+    padding: 5px 5px;
+}
